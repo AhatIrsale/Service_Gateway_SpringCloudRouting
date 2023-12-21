@@ -26,10 +26,10 @@ public class GatewayApplication {
 
 	//Pour Configuration Dynamique
 
-	@Bean
+/*	@Bean
 	DiscoveryClientRouteDefinitionLocator
 	routesDynamique(ReactiveDiscoveryClient rdc , DiscoveryLocatorProperties dlp)
 	{
 		return  new DiscoveryClientRouteDefinitionLocator(rdc,dlp);
-	}
+	}*/
 }
